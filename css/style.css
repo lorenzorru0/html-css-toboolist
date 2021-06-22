@@ -99,10 +99,13 @@ button {
     width: 17px;
     height: 17px;
     border-radius: 50%;
-    font-size: 15px;
+    font-size: 13px;
     vertical-align: middle;
     display: inline-block;
     border: 1px solid;
+    padding-left: 3px;
+    padding-bottom: 2px;
+    padding-top: 0;
 }
 .button-altro {
     color: white;
