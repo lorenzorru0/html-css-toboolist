@@ -24,3 +24,29 @@ h1 {
 img {
     vertical-align: middle;
 }
+
+/* Main */
+.contenitore {
+    width: 70%;
+    height: 50px;
+    margin: auto;
+    background-color: white;
+    margin-top: 50px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 14px 50px;
+}
+button {
+    border-radius: 5px;
+    padding: 5px;
+    vertical-align: middle;
+}
+.button-task {
+    color: white;
+    background-color: #48adf1;
+    border: 1px solid #48adf1;
+}
+.button-section {
+    color: lightgray;
+    border: 1px solid lightgray;
+}
